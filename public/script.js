@@ -8,7 +8,7 @@ let Commands = [{
 }];
 function showAds() {
   var ads = [
-    '',
+    'https://web.facebook.com/profile.php?id=61553917146801',
     '',
     '',
     '',
